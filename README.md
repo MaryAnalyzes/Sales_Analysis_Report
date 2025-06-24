@@ -16,6 +16,7 @@ This project focuses on a comprehensive analysis of sales performance, focusing 
 
 ## Visualization
 This Dashboard pulls together data insights in a clear, visual way making it easier to track key metrics at a glance.
+![image alt](https://github.com/MaryAnalyzes/Sales_Analysis_Report/blob/main/saleforecast.pdf)
 ![image alt](https://github.com/MaryAnalyzes/Sales_Analysis_Report/blob/main/Report%20Dashboard.png?raw=true)
 
 ## Key Metrics
