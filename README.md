@@ -14,6 +14,8 @@ This project focuses on a comprehensive analysis of sales performance, focusing 
 -To identify which month the store makes the most sale and why.
 -To answer the question 'How to increase sales/Revenue?'.
 
+## Visualization
+This Dashboard pulls together data insights in a clear, visual way making it easier to track key metrics at a glance.
 ![image alt](https://github.com/MaryAnalyzes/Sales_Analysis_Report/blob/main/Report%20Dashboard.png?raw=true)
 
 ## Key Metrics
