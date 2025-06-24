@@ -3,7 +3,6 @@ This project focuses on a comprehensive analysis of sales performance, focusing 
 
 ## Table of content
 -[Objective](#Objective)
--[SQL_queries](#SQL_queries) 
 -[Visualization](#Visualization)
 -[Key-metrics](#Key-metrics)
 -[Insights](#Insights)
