@@ -14,6 +14,8 @@ This project focuses on a comprehensive analysis of sales performance, focusing 
 -To identify which month the store makes the most sale and why.
 -To answer the question 'How to increase sales/Revenue?'.
 
+![image alt](Report Dashboard.png)
+
 ## Key Metrics
 For this Project, it is not just about identifying the key metrics, it was on solving real problems:
 -Does this metric allign with our goals?
