@@ -26,8 +26,11 @@ For this Project, it is not just about identifying the key metrics, it was on so
 
 Below are the key metrics:
 -Total Revenue is $3,885,795.3
+
 -Units Sold is 77,493
+
 -Total Marketing Spend is $758,485 which is 19.5% of the total revenue.
+
 -Avg Customer Traffic at every marking spend is 21,860.
 
 ## Insights
