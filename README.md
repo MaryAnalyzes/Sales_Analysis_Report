@@ -10,7 +10,9 @@ This project focuses on a comprehensive analysis of sales performance, focusing 
 
 ## Objective
 -To identify the relationship between Marketing and Sales/Revenue.
+
 -To identify which month the store makes the most sale and why.
+
 -To answer the question 'How to increase sales/Revenue?'.
 
 ## Visualization
@@ -25,6 +27,7 @@ For this Project, it is not just about identifying the key metrics, it was on so
 -Is it actionable?
 
 Below are the key metrics:
+
 -Total Revenue is $3,885,795.3
 
 -Units Sold is 77,493
